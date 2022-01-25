@@ -11,6 +11,3 @@ System used to produce the time-cost result in paper:
 * CPU: Intel i9-10900K (20) @ 3.696GHz 
 * Memory: ____MiB / 32688MiB 
 * `Pypy` and `CPython` have pretty close performance in term of execution time. 
-
-Feel free to explore our database and codebase. If you happen to find anything interesting in our rudimental project, also feel free modify/utilize as wish, but please do include us or the original providers. A suggestion format of referencing us: 
-> Xinyu Xie, Qian Chen and Yutang Li. _AH-SAR: Ad Hoc Sentiment Analysis on Ratemyprofessor_. New York University, 2021. https://github.com/Xinyu-bot/NLP_SentimentAnalysis_RMP. 
